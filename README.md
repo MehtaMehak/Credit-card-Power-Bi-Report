@@ -128,6 +128,8 @@ The **Power BI Dashboard** contains:
 - Risk metrics: revolving balance %, high-risk segments
 - Drill-through for Week-over-Week trends
 
+[Screenshot1](https://raw.githubusercontent.com/MehtaMehak/Credit-card-Power-Bi-Report/refs/heads/main/Screenshot%202025-07-17%20235505.png)
+[Screenshot1](https://raw.githubusercontent.com/MehtaMehak/Credit-card-Power-Bi-Report/refs/heads/main/Screenshot%202025-07-17%20235526.png)
 
 
 
